@@ -1,0 +1,3 @@
+Text: "The service quality is poor and unreliable." -> Predicted: negative
+Text: "The installation was completed on time, works perfectly!" -> Predicted: positive
+Text: "Can you confirm whether my ticket has been assigned?" -> Predicted: neutral
